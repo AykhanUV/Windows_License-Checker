@@ -10,5 +10,5 @@ You can see pictures below.
 ## 🖼️This is the interface of my Windows License Checker
 ![WindowsLicenseChecker](https://github.com/AykhanUV/windows-license-checker/blob/main/photos/Windows%20License%20Checker.png)
 
-## This is the menu after a specific version of Windows is selected.
+## This is the menu after a specific number is selected.
 ![LicenseStatus](https://github.com/AykhanUV/windows-license-checker/blob/main/photos/License%20status.png)
